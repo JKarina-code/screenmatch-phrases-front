@@ -1,4 +1,4 @@
-# Number Secret Game
+# Screenmatch Phrases
 Project showing phrases and their author, using PostgreSQL database and Spring boot backend.
 
 ## 📁 Project access
